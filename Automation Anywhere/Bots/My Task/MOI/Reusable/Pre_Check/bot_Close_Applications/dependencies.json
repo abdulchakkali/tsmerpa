@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Reusable\\Pre_Check\\Close_Applications","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Reusable\\Pre_Check\\Close_Applications","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Task\\MOI\\Reusable\\Log_To_File\\Log_To_File"]}
