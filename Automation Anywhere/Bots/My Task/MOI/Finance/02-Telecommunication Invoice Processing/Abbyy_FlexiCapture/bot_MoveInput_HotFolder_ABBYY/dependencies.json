@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Finance\\02-Telecommunication Invoice Processing\\Abbyy_FlexiCapture\\MoveInput_HotFolder_ABBYY","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Finance\\02-Telecommunication Invoice Processing\\Abbyy_FlexiCapture\\MoveInput_HotFolder_ABBYY","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Task\\MOI\\Reusable\\Log_To_File\\Log_To_File"]}
