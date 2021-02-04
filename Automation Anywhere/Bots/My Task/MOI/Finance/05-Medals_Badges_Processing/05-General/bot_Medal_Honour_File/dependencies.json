@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Finance\\05-Medals_Badges_Processing\\05-General\\Medal_Honour_File","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Task\\MOI\\Finance\\05-Medals_Badges_Processing\\05-General\\Medal_Honour_File","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Task\\MOI\\Reusable\\Email\\Send_Email"]}
