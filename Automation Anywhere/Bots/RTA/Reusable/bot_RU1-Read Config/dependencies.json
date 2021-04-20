@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\RTA\\Reusable\\RU1-Read Config","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\RTA\\Reusable\\RU1-Read Config","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\RTA\\Reusable\\RU2-Log"]}
