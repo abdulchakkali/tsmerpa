@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\RTA\\Bus Accident Handling\\U01-Service Request Creation\\U01_Get DriverID","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\RTA\\Bus Accident Handling\\U01-Service Request Creation\\U01_Get DriverID","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\RTA\\Reusable\\RU2-Log"]}
